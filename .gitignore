@@ -404,3 +404,7 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+env/
+__pycache__/
+*.pyc
+config.py
